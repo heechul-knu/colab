@@ -4,7 +4,7 @@
 # Term Project for Final Exam
 - Goal: Achieve the best performance on CIFAR-10 dataset in this class.
 - Submit a report that describes your method and the results.
-- Share the source code using Github to other students.
+- Share your source code using Github with other students.
 
 - Evalueation metric: classification rate (%)
 - Train data: 50000
