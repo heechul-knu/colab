@@ -13,5 +13,7 @@
 - Deep learning framework: Any framework (PyTorch, Tensorflow, Keras ...)
 - Deep learning architecture: Any architecture
 - You can use ImageNet pre-trained model.
+<br>
 
-
+- You can check the state-of-the-art approaches.
+- https://paperswithcode.com/sota/image-classification-on-cifar-10
