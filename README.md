@@ -4,6 +4,10 @@
 # Term Project for Final Exam
 - Goal: Achieve the best performance on CIFAR-10 dataset in this class.
 - Submit a report that describes your method and the results.
+- Share the source code using Github to other students.
+
 - Evalueation metric: classification rate (%)
 - Train data: 50000
 - Test data: 10000
+- Deep learning framework: Any framework (PyTorch, Tensorflow, Keras ...)
+- Deep learning architecture: Any architecture
