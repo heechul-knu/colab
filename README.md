@@ -6,6 +6,7 @@
 - Submit a report that describes your method and the results.
 - Share your source code using Github with other students.
 <br>
+
 - Evalueation metric: classification rate (%)
 - Train data: 50000
 - Test data: 10000
