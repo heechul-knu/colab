@@ -9,7 +9,7 @@
 - Workshop? Presentation? (Not decided yet.)
 <br>
 
-- Evalueation metric: classification rate (%)
+- Evalueation metric: Top-1 classification rate (%)
 - Train data: 50000
 - Test data: 10000
 - Deep learning framework: Any framework (PyTorch, Tensorflow, Keras ...)
