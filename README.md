@@ -22,7 +22,7 @@
 <br>
 
 - Model constraints!<br>
-Some students have some concerns the CIFAR-10 accuracies is saturated as 99.5 when the ViT model is used.
+Some students have some concerns the CIFAR-10 accuracies are saturated as 99.5 when the ViT model is used.
 Consequently, I decided to limit the architectures as follows:
 <br>
 
