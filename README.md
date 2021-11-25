@@ -19,3 +19,26 @@
 
 - You can check the state-of-the-art approaches.
 - https://paperswithcode.com/sota/image-classification-on-cifar-10
+<br>
+
+- Model constraints!
+Some students have some concerns the CIFAR-10 accuracies were saturated as 99.5 when the ViT model was used.
+Consequently, I decided to limit the architectures as follows:
+
+AlexNet
+VGG
+ResNet
+SqueezeNet
+DenseNet
+Inception v3
+GoogLeNet
+ShuffleNet v2
+MobileNetV2
+MobileNetV3
+ResNeXt
+Wide ResNet
+MNASNet
+EfficientNet
+RegNet
+
+You can only use the architectures as a baseline for term project, and you can modify it while maintaining the basic form of the architectures.
