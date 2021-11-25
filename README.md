@@ -3,7 +3,7 @@
 
 # Term Project for Final Exam
 - Goal: Achieve the best performance on CIFAR-10 dataset in this class.
-- Submit a report that describes your method and the results. (~11:59pm, 12th Dec. 2021)
+- Submit a report that describes your method and the results. (~11:59pm, 12th Dec. 2021, extended!!)
 - I am going to share your report with other students.
 - (Recommendation!) Share your source code using Github with other students.
 - Workshop? Presentation? --> Top-10 students will give a presentation about their work. (09:00 am, 17th Dec. 2021)
