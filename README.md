@@ -6,7 +6,7 @@
 - Submit a report that describes your method and the results. (~11:59pm, 8th Dec. 2021)
 - I am going to share your report with other students.
 - (Recommendation!) Share your source code using Github with other students.
-- Workshop? Presentation? (Not decided yet.)
+- Workshop? Presentation? --> Top-10 students are will give a presentation about their work.
 <br>
 
 - Evalueation metric: Top-1 classification rate (%)
