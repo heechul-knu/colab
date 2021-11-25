@@ -21,7 +21,7 @@
 - https://paperswithcode.com/sota/image-classification-on-cifar-10
 <br>
 
-- Model constraints!
+- Model constraints!<br>
 Some students have some concerns the CIFAR-10 accuracies were saturated as 99.5 when the ViT model was used.
 Consequently, I decided to limit the architectures as follows:
 <br>
