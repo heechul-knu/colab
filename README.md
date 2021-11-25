@@ -19,6 +19,7 @@
 
 - You can check the state-of-the-art approaches.
 - https://paperswithcode.com/sota/image-classification-on-cifar-10
+- https://github.com/kuangliu/pytorch-cifar
 <br>
 
 - Model constraints!<br>
