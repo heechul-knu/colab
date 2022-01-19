@@ -17,3 +17,7 @@ python3 main.py
 
 # GPU 0번으로 실행하기
 CUDA_VISIBLE_DEVICES=0 python3 main.py
+
+
+# main.py 수정하기
+nano main.py
