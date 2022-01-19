@@ -12,4 +12,5 @@ pip3 install --user -r ../requirements.txt -f https://download.pytorch.org/whl/c
 
 # 실행
 cd pytorch-cifar
+
 python3 main.py
