@@ -14,3 +14,6 @@ pip3 install --user -r ../requirements.txt -f https://download.pytorch.org/whl/c
 cd pytorch-cifar
 
 python3 main.py
+
+# GPU 0번으로 실행하기
+CUDA_VISIBLE_DEVICES=0 python3 main.py
