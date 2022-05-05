@@ -3,7 +3,7 @@
 
 # Term Project for Final Exam
 - Goal: To achieve the best performance on CIFAR-10 dataset in this class.
-- Submit a report that describes your method and the results. (~11:59pm, 12th Dec. 2021, extended!!)
+- Submit a report that describes your method and the results. (~11:59pm, 12th June. 2022)
 - I am going to share your report with other students.
 - (Recommendation!) Share your source code using Github with other students.
 - Workshop? Presentation? --> Top-10 students will give a presentation about their work. (09:00 am, 17th Dec. 2021)
@@ -41,6 +41,17 @@ Wide ResNet<br>
 MNASNet<br>
 <br>
 You can only use the architectures as a baseline for term project, and you can modify it while maintaining the basic form of the architectures.
+<br>
+
+# Requirement
+- Intermediate report (pdf, 1~2 page, 20 points)
+- Final report (pdf, 4 page, 30 points)
+- Final source code (5 points)
+- Leader board upate (5 points)
+<br>
+# Leaderboard
+- Upload only validation accuracy. (Not train accuracy.)
+- 
 <br>
 <br>
 
