@@ -14,7 +14,7 @@
 - Train data: 50000
 - Validation data: 10000 (Same as the original validation dataset of CIFAR-10)
 - Deep learning framework: Any framework (PyTorch, Tensorflow, Keras ...)
-- Deep learning architecture: Any architecture
+- Deep learning architecture: See below.
 - You can use ImageNet pre-trained model.
 <br>
 
