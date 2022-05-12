@@ -59,20 +59,9 @@ You can only use the architectures as a baseline for term project, and you can m
 
 
 # Example: baseline code (pytorch-cifar)
-
-- home 디렉토리로 변경
+- github clone
 ```
-cd ~
-```
-
-- pip 업그레이드
-```
-pip3 install --upgrade pip
-```
-
-- pytorch install 
-```
-pip3 install --user -r ../requirements.txt -f https://download.pytorch.org/whl/cu110/torch_stable.html 
+git clone https://github.com/kuangliu/pytorch-cifar.git
 ```
 
 - 실행
