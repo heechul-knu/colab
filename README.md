@@ -4,7 +4,7 @@
 # Term Project for Final Exam
 - Goal: To achieve the best performance on CIFAR-10 dataset in this class.
 - You have to submit your source code and final report that describes your methods. (~11:59pm, 12th June, 2022)
-- Also, you have to submit your intermediate report (~11:59pm, 25th May, 2022)
+- Also, you have to submit your intermediate report (~11:59pm, 29th May, 2022)
 - You have to upload your accuracy on the leaderboard.
 - Your submitted reports will be shared with other students.
 - Selected students should give a presentation about their work. (Full credit!!)
