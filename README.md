@@ -40,6 +40,7 @@ MobileNetV3<br>
 ResNeXt<br>
 Wide ResNet<br>
 MNASNet<br>
+EfficientNet<br>
 You can design your architecture.<br>
 <br>
 You can only use the architectures as a baseline for term project, and you can modify it while maintaining the basic form of the architectures.
